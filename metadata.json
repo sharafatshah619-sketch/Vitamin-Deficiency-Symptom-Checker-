@@ -1,0 +1,6 @@
+{
+  "name": "NutriCheck: Vitamin Deficiency Symptom Checker",
+  "description": "A clinically informed mobile health app to evaluate symptoms, uncover micronutrient and vitamin deficiencies, analyze dietary risks, and generate personalized doctor discussion plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
